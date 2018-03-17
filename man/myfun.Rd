@@ -2,7 +2,7 @@
 \alias{myfun}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
-%%  ~~calculate mean  ... ~~
+%%  ~~myfun ... ~~
 }
 \description{
 %%  ~~ this is my first program ~~
