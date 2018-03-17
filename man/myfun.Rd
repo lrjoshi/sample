@@ -2,7 +2,11 @@
 \alias{myfun}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
+<<<<<<< HEAD
 %%  ~~myfun ... ~~
+=======
+%%  ~~to calculate to do mean ... ~~
+>>>>>>> 527fb0093af23fc518de749b6ba7ca1495ac43a2
 }
 \description{
 %%  ~~ this is my first program ~~
