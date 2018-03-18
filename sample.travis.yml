@@ -1,5 +1,2 @@
-language: R
-rvm:
- - 2.2
- - jruby
- - rbx-3
+language: r
+cache: packages
